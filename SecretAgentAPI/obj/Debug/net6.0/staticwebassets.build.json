@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z+wZxCVmcEtrzZEABhkqCISmv2S9il0D5sU61JwkdeI=",
+  "Source": "SecretAgentAPI",
+  "BasePath": "_content/SecretAgentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
